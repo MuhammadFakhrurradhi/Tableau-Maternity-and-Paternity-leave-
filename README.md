@@ -9,4 +9,4 @@ This visual was created to deep dive into company and industry sectors about the
 ![Paternity Vs Maternity rev](https://github.com/MuhammadFakhrurradhi/Tableau-Maternity-and-Paternity-leave-/assets/131879017/a960b03c-8857-4d28-a099-c1b2085d0480)
 
 
-for interactive dashboard you can access in this following link [https://public.tableau.com/views/PaternityMaternityLeavePolicies/PaternityVsMaternity?:language=en-US&:display_count=n&:origin=viz_share_link]
+for interactive dashboard you can access in this following [Tableau](https://public.tableau.com/views/Paternity_MaternityLeavePoliciesrev/PaternityVsMaternity?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
